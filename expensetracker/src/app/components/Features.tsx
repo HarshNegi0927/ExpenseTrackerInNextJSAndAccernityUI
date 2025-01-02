@@ -30,7 +30,7 @@ export function Features() {
 
   return (
     <>
-     <div className="mt-[30rem] h-[25rem] flex items-center justify-center"     >
+     <div className="mt-[30rem] h-[25rem] flex items-center justify-center">
           <TextHoverEffect text="Features"  />
         </div>
   <FocusCards cards={cards} />)
